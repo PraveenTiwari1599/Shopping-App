@@ -1,0 +1,20 @@
+const IconConst = {
+  camera: require('./Icons/Camera.png'),
+  lady: require('./Icons/lady.png'),
+  photo: require('./Icons/photo.png'),
+  rightArrow: require('./Icons/rightArrow.png'),
+  splashIcon: require('./Icons/splashIcon.png'),
+  success: require('./Icons/success.png'),
+  addIcon: require('./Icons/addIcon.png'),
+  roomBg: require('./Icons/roomBg.png'),
+  modelLady: require('./Icons/modelLady.png'),
+  brush: require('./Icons/brush.png'),
+  sneakers: require('./Icons/sneakers.png'),
+  glass: require('./Icons/glass.png'),
+  dress: require('./Icons/dress.png'),
+  pictures: require('./Icons/pictures.png'),
+  backArrow: require('./Icons/backArrow.png'),
+  girl: require('./Icons/girl.png'),
+  bag: require('./Icons/bag.png'),
+};
+export default IconConst;

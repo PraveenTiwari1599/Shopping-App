@@ -1,0 +1,14 @@
+import {fontPixel} from '../helpers/Responsive';
+export const FONT_SIZE_25 = fontPixel(25);
+export const FONT_SIZE_24 = fontPixel(24);
+export const FONT_SIZE_22 = fontPixel(22);
+export const FONT_SIZE_20 = fontPixel(20);
+export const FONT_SIZE_18 = fontPixel(18);
+export const FONT_SIZE_17 = fontPixel(17);
+export const FONT_SIZE_16 = fontPixel(16);
+export const FONT_SIZE_15 = fontPixel(15);
+export const FONT_SIZE_14 = fontPixel(14);
+export const FONT_SIZE_13 = fontPixel(13);
+export const FONT_SIZE_12 = fontPixel(12);
+export const FONT_SIZE_11 = fontPixel(11);
+export const FONT_SIZE_10 = fontPixel(10);
